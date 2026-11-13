@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	traefik_tracking_cookie "github.com/stabelo/traefik-tracking-cookie"
+	traefik_tracking_cookie "github.com/gast-traefik/traefik-tracking-cookie"
 )
 
 func TestTraefikTrackingCookie(t *testing.T) {
